@@ -1,2 +1,4 @@
 meduza.io
 console.scaleway.com
+account.scaleway.com
+api.scaleway.com

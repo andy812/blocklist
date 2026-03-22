@@ -5,3 +5,4 @@ account.scaleway.com
 api.scaleway.com
 www.spot.uz
 bedroomproducersblog.com
+solscan.io

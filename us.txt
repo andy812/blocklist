@@ -1,4 +1,3 @@
-openrouter.ai
 prompts.chat
 prompts-chat-space.fra1.digitaloceanspaces.com
 dn1.wiro.ai
@@ -16,6 +15,7 @@ a0.muscache.com
 
 r.stripe.com
 m.stripe.com
+m.stripe.network
 js.stripe.com
 merchant-ui-api.stripe.com
 api.stripe.com

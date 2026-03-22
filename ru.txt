@@ -1,8 +1,12 @@
 meduza.io
+bedroomproducersblog.com
+
 www.scaleway.com
 console.scaleway.com
 account.scaleway.com
 api.scaleway.com
+
 www.spot.uz
-bedroomproducersblog.com
+in.it-center.uz
+
 solscan.io

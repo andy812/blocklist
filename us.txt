@@ -16,3 +16,5 @@ a0.muscache.com
 r.stripe.com
 m.stripe.com
 js.stripe.com
+merchant-ui-api.stripe.com
+api.stripe.com

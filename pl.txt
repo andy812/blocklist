@@ -7,6 +7,5 @@ account.scaleway.com
 api.scaleway.com
 
 www.spot.uz
-in.it-center.uz
 
 solscan.io

@@ -1,4 +1,5 @@
 meduza.io
+www.scaleway.com
 console.scaleway.com
 account.scaleway.com
 api.scaleway.com

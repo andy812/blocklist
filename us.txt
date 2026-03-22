@@ -1,3 +1,4 @@
+openrouter.ai
 prompts.chat
 prompts-chat-space.fra1.digitaloceanspaces.com
 dn1.wiro.ai

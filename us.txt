@@ -12,3 +12,6 @@ www.byteplus.com
 ​f02aa.airbnb.ru
 a0.muscache.com
 ​d0a7e.airbnb.com
+
+r.stripe.com
+ds.stripe.com

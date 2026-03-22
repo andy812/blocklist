@@ -9,5 +9,3 @@ account.scaleway.com
 api.scaleway.com
 
 solscan.io
-
-prompts.chat

@@ -5,3 +5,5 @@ the.gatekeeperconsent.com
 cmp.gatekeeperconsent.com
 www.ezojs.com
 raw.githubusercontent.com
+
+www.byteplus.com

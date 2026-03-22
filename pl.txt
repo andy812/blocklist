@@ -1,11 +1,13 @@
 meduza.io
+www.spot.uz
 bedroomproducersblog.com
+www.renoise.com
 
 www.scaleway.com
 console.scaleway.com
 account.scaleway.com
 api.scaleway.com
 
-www.spot.uz
-
 solscan.io
+
+prompts.chat

@@ -1,1 +1,7 @@
 prompts.chat
+prompts-chat-space.fra1.digitaloceanspaces.com
+dn1.wiro.ai
+the.gatekeeperconsent.com
+cmp.gatekeeperconsent.com
+www.ezojs.com
+raw.githubusercontent.com

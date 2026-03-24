@@ -1,6 +1,7 @@
 meduza.io
 www.spot.uz
 uz.kursiv.media
+cdn-uz.kursiv.media
 bedroomproducersblog.com
 www.renoise.com
 

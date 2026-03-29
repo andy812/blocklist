@@ -13,5 +13,3 @@ api.scaleway.com
 www.duckdns.org
 
 solscan.io
-
-github.com

@@ -13,3 +13,8 @@ solscan.io
 rtve.es
 eu1.gigya.com
 us1.gigya.com
+rtve.sc.omtrdc.net
+dpm.demdex.net
+assets.adobedtm.com
+rcg.conviva.com
+appgw.conviva.com

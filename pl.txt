@@ -1,16 +1,12 @@
 meduza.io
-www.spot.uz
-uz.kursiv.media
-cdn-uz.kursiv.media
+spot.uz
+kursiv.media
 bedroomproducersblog.com
-www.renoise.com
+renoise.com
 amnezia.org
 
-www.scaleway.com
-console.scaleway.com
-account.scaleway.com
-api.scaleway.com
-www.duckdns.org
+scaleway.com
+duckdns.org
 
 solscan.io
 

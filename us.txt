@@ -1,8 +1,7 @@
 prompts.chat
 prompts-chat-space.fra1.digitaloceanspaces.com
 dn1.wiro.ai
-the.gatekeeperconsent.com
-cmp.gatekeeperconsent.com
+gatekeeperconsent.com
 www.ezojs.com
 raw.githubusercontent.com
 
@@ -10,11 +9,12 @@ www.byteplus.com
 
 ​www.airbnb.ru
 airbnb.ru
-​f02aa.airbnb.ru
-a0.muscache.com
-​d0a7e.airbnb.com
 airbnb.com
+muscache.com
+braintreegateway.com
 
+meduza.io
+solscan.io
 spot.uz
 bedroomproducersblog.com
 renoise.com

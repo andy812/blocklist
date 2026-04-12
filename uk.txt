@@ -1,7 +1,3 @@
-meduza.io
-
-solscan.io
-
 rtve.es
 eu1.gigya.com
 us1.gigya.com

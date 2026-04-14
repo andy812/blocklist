@@ -24,3 +24,4 @@ scaleway.com
 duckdns.org
 
 twimg.com
+cdn.syndication.twimg.com

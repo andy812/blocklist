@@ -22,3 +22,7 @@ amnezia.org
 
 scaleway.com
 duckdns.org
+
+searx.party
+searx.tiekoetter.com
+searx.ninja

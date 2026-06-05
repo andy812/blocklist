@@ -26,3 +26,5 @@ duckdns.org
 searx.party
 searx.tiekoetter.com
 searx.ninja
+
+spotify.com

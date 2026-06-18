@@ -30,3 +30,5 @@ searx.ninja
 spotify.com
 
 moonshot.cn
+
+rabby.io

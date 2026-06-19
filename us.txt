@@ -31,3 +31,4 @@ searx.ninja
 
 spotify.com
 moonshot.cn
+z.ai

@@ -30,5 +30,6 @@ searx.tiekoetter.com
 searx.ninja
 
 spotify.com
+scdn.co
 moonshot.cn
 z.ai

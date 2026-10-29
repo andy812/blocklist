@@ -9,3 +9,5 @@ appgw.conviva.com
 googleapis.com
 
 in.it-center.uz
+
+cline.bot
